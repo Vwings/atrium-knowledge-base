@@ -2,7 +2,7 @@
 
 ## 状态
 
-草案，待用户整体评审。整体框架以用户 2026-10-20 的重述为准（原话见 [README](../README.md)“已确认结论汇总”）；其余内容是 Agent 的推荐判断，评审确认后再提炼到 `product/`。各能力的详细讨论见[上下文环境](context-environment.md)、[任务与工作流](task-and-workflow.md)、[Agent 与入口](agent-and-entries.md)。每节标注来源：
+草案，待用户整体评审。整体框架以用户 2026-10-20 的重述为准（见 [README](../README.md)“已确认结论”）；其余内容是 Agent 的推荐判断，评审确认后再提炼到 `product/`。各能力的详细讨论见[上下文环境](context-environment.md)、[任务与工作流](task-and-workflow.md)、[Agent 与入口](agent-and-entries.md)。每节标注来源：
 
 - **已确认**：用户已明确认可。
 - **草案**：Agent 的推荐，待评审。

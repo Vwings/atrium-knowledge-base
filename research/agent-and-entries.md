@@ -2,7 +2,7 @@
 
 ## 状态
 
-汇总入口（桌面、CLI、外部 Agent、内置 Agent）与 Agent 职责的讨论结论和候选设计。已确认结论的原话与日期另汇总在 [README](../README.md)。部署形态和技术参考见[程序架构参考](reference-architectures.md)。
+汇总入口（桌面、CLI、外部 Agent、内置 Agent）与 Agent 职责的讨论结论和候选设计。已确认结论按主题汇总在 [README](../README.md)。部署形态和技术参考见[程序架构参考](reference-architectures.md)。
 
 ## 基础定位
 
